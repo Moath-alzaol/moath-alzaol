@@ -18,18 +18,7 @@ With over **5 years of experience** in front-end development, I specialize in **
 
 ---
 
-## 🌟 Personal Skills
-✅ Fast learner & adaptable  
-✅ Strong leadership & teamwork abilities  
-✅ Excellent organizational and problem-solving skills  
-✅ Reliable, confident, and detail-oriented  
-
-
 ## 📫 Let’s Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/moath-alzaol-770788190)  
 - 📧 Email: [Moath.alzaol@gmail.com](mailto:Moath.alzaol@gmail.com)  
 - 📍 Location: Amman, Jordan  
-
----
-
-✨ *“Clean code, scalable architecture, and great user experience — that’s my mission as a developer.”*  
